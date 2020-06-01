@@ -64,8 +64,8 @@ Before you start setting up the scaling tool, make sure you have the following t
 
 The machine you use to deploy the tool must have: 
 
-- Windows PowerShell 5.1 or later
-- The Microsoft Az PowerShell module
+- Windows PowerShell 6.0 or later
+- The Microsoft Az PowerShell module - https://docs.microsoft.com/en-us/azure/virtual-desktop/powershell-module
 
 If you have everything ready, then let's get started.
 
